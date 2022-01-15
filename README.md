@@ -1,12 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Akash 👋
 
 <!--
 **aksh-kr/aksh-kr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
-
-- 🔭 I’m currently working on HTML
-- 🌱 I’m currently learning Web Development and JAVA
+- 🔭 Currently working on Guidewire
+- 🌱 I’m learning 
+  - [ ] Web Development
+    - [x] HTML
+    - [ ] CSS
+    - [ ] JavaScript 
+  - [ ] JAVA
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
