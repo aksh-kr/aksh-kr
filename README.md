@@ -6,12 +6,10 @@
 Here are some ideas to get you started:-->
 - 🔭 Currently working on Guidewire
 - 🌱 I’m learning 
-  - [ ] Web Development
-    - [x] HTML
-    - [ ] CSS
-    - [ ] JavaScript 
-  - [ ] JAVA
-### 📊 Weekly Development Breakdown
+  - Web Development
+  - JAVA
+  - Data Structures and Algorithms
+### 📊 Weekly Stats
 <!--START_SECTION:waka-->
 ```text
 HTML   3 mins          █████████████████████▒░░░   84.78 % 
