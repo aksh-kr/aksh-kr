@@ -13,6 +13,9 @@ Here are some ideas to get you started:-->
   - [ ] JAVA
 
 <!--START_SECTION:waka-->
+```text
+HTML   3 mins          █████████████████████▒░░░   84.78 % 
+```
 <!--END_SECTION:waka-->
 <!--
 - 👯 I’m looking to collaborate on ...
