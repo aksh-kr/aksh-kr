@@ -11,7 +11,7 @@ Here are some ideas to get you started:-->
     - [ ] CSS
     - [ ] JavaScript 
   - [ ] JAVA
-
+### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
 ```text
 HTML   3 mins          █████████████████████▒░░░   84.78 % 
