@@ -11,6 +11,8 @@ Here are some ideas to get you started:-->
     - [ ] CSS
     - [ ] JavaScript 
   - [ ] JAVA
+
+<!-- START_SECTION:waka--><!--END_SECTION:waka-->
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
