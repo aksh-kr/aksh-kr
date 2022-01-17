@@ -10,7 +10,7 @@ Here are some ideas to get you started:-->
   - JAVA
   - Data Structures and Algorithms
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aksh-kr)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aksh-kr&show_icons=true&theme=radical)
 
 ### 📊 Weekly Stats
 <!--START_SECTION:waka-->
@@ -21,7 +21,7 @@ HTML   3 mins          ███████████████████
 ```
 <!--END_SECTION:waka-->
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime/?username=@a2b90cf8-8157-40ff-a1d1-15e60984d20a)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime/?username=akash_kr)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 - 👯 I’m looking to collaborate on ...
