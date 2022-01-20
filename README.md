@@ -15,9 +15,9 @@ Here are some ideas to get you started:-->
 ### 📊 Weekly Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 12 January, 2022 - 18 January, 2022
+Week: 13 January, 2022 - 19 January, 2022
 
-Java             3 hrs 5 mins    █████████████████████████   100.00 % 
+Java             3 hrs 13 mins   █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
