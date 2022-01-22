@@ -12,14 +12,6 @@ Here are some ideas to get you started:-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aksh-kr&show_icons=true&theme=radical)
 
-### 📊 Weekly Stats
-<!--START_SECTION:waka-->
-```text
-Week: 15 January, 2022 - 21 January, 2022
-
-Java             3 hrs 13 mins   █████████████████████████   100.00 % 
-```
-<!--END_SECTION:waka-->
 
 <!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=akash_kr)](https://github.com/anuraghazra/github-readme-stats)-->
 <!--
