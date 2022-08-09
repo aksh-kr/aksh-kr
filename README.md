@@ -4,11 +4,7 @@
 **aksh-kr/aksh-kr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
-- 🔭 Currently working on Guidewire
-- 🌱 I’m learning 
-  - Web Development
-  - JAVA
-  - Data Structures and Algorithms
+- 🔭 Currently working as a Java Developer, mostly backend.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aksh-kr&show_icons=true&theme=radical)
 
