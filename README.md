@@ -4,9 +4,9 @@
 
 I'm a Software Development Engineer staying in Bangalore. </br>
 
-As I have just started on this journey, there is so much to learn and having one quote to keep myself grounded. </br>
+As I have just started on this journey, there is so much to learn. </br>
 
-> He who climb the ladder must start at the bottom.
+> He who would climb the ladder must begin at the bottom.
 
 </br>
 
@@ -21,9 +21,9 @@ As I have just started on this journey, there is so much to learn and having one
 #### BIO
 - :hammer_and_wrench: Active daily on [LeetCode](https://leetcode.com/resilientbloke/)
 - :dancers: Looking to contribute in open source projects
-- :sunrise_over_mountains: Love being in nature
-- :biking_man: Engaged in endurance sports
-- :open_book: Currently reading "Epictetus - Discourses and Selected Writings"
+- :sunrise_over_mountains: Outdoors
+- :weight_lifting: Progressively overloading weights
+- :open_book: Currently reading "Meditations : The Thoughts of the Emperor M. Aurelius Antoninus"
 
 </br>
 
