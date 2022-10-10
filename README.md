@@ -26,6 +26,7 @@ As I have just started on this journey, there is so much to learn. </br>
 - :open_book: Currently reading "Meditations : The Thoughts of the Emperor M. Aurelius Antoninus"
 
 </br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aksh-kr&label=Profile%20views&color=0e75b6&style=flat" alt="aksh-kr" /> </p>
 
 ---
 
