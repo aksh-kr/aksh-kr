@@ -1,12 +1,12 @@
 # Hello World, :wave: I'm ***Akash Kumar*** !
+<br>
 
-</br>
-
-I'm a Software Development Engineer staying in Bangalore. </br>
+I'm a Software Development Engineer staying in Bangalore. </br> 
 
 As I have just started on this journey, there is so much to learn. </br>
 
 > He who would climb the ladder must begin at the bottom.
+
 
 </br>
 
@@ -26,9 +26,9 @@ As I have just started on this journey, there is so much to learn. </br>
 - :open_book: Currently reading "Meditations : The Thoughts of the Emperor M. Aurelius Antoninus"
 
 </br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aksh-kr&label=Profile%20views&color=0e75b6&style=flat" alt="aksh-kr" /> </p>
 
----
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=aksh-kr&label=Profile%20views&color=0e75b6&style=flat" alt="aksh-kr" /> </p>
+<p align="center"> <a href="https://twitter.com/leverage_code" target="blank"><img src="https://img.shields.io/twitter/follow/leverage_code?logo=twitter&style=for-the-badge" alt="leverage_code" /></a> </p>
 
 </br>
 
