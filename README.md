@@ -11,10 +11,10 @@ As I have just started on this journey, there is so much to learn. </br>
 </br>
 
 #### NOW
-- :seedling: Learning ![language](https://img.shields.io/badge/language-java-blue)
-- :mag: Focusing on DSA to start.
-- :computer: Building my first project
-- :mailbox: Reach me at [LinkedIn](https://www.linkedin.com/in/6174/)
+- :seedling: Learning Backend in NodeJs.
+- :mag: Focusing on DSA  and back-end development.
+- :computer: Building projects and learning.
+- :mailbox: Connect with me on [LinkedIn](https://www.linkedin.com/in/6174/)
 
 </br>
 
