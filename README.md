@@ -10,7 +10,7 @@ As I have just started on this journey, there is so much to learn. </br>
 
 </br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aksh-kr&label=Profile%20views&color=0e75b6&style=flat" alt="aksh-kr" /> </p>
-<p align="center"> <a href="https://twitter.com/resilientbloke" target="blank"><img src="https://img.shields.io/twitter/follow/leverage_code?logo=twitter&style=for-the-badge" alt="resilientbloke" /></a> </p>
+<p align="center"> <a href="https://twitter.com/resilientbloke" target="blank"><img src="https://img.shields.io/twitter/follow/resilientbloke?logo=twitter&style=for-the-badge" alt="resilientbloke" /></a> </p>
 
 </br>
 
