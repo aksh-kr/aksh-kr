@@ -49,8 +49,8 @@ As I have just started on this journey, there is so much to learn. </br>
 
 </br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aksh-kr&show_icons=true&theme=radical)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aksh-kr)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aksh-kr&show_icons=true&theme=transparent)
 
 <!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=akash_kr)](https://github.com/anuraghazra/github-readme-stats)-->
 <!--
