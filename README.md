@@ -15,7 +15,7 @@ As I have just started on this journey, there is so much to learn. </br>
 </br>
 
 #### NOW
-- :seedling: Learning Backend in NodeJs.
+- :seedling: Learning Backend in Spring Boot.
 - :mag: Focusing on DSA  and back-end development.
 - :computer: Building projects and learning.
 - :mailbox: Connect with me on [LinkedIn](https://www.linkedin.com/in/6174/)
